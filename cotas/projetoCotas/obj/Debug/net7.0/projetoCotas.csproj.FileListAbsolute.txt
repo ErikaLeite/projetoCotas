@@ -1,0 +1,15 @@
+C:\Users\Erika\Desktop\cotas\projetoCotas\bin\Debug\net7.0\projetoCotas.exe
+C:\Users\Erika\Desktop\cotas\projetoCotas\bin\Debug\net7.0\projetoCotas.deps.json
+C:\Users\Erika\Desktop\cotas\projetoCotas\bin\Debug\net7.0\projetoCotas.runtimeconfig.json
+C:\Users\Erika\Desktop\cotas\projetoCotas\bin\Debug\net7.0\projetoCotas.dll
+C:\Users\Erika\Desktop\cotas\projetoCotas\bin\Debug\net7.0\projetoCotas.pdb
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.AssemblyInfoInputs.cache
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.AssemblyInfo.cs
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.dll
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\refint\projetoCotas.dll
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.pdb
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\projetoCotas.genruntimeconfig.cache
+C:\Users\Erika\Desktop\cotas\projetoCotas\obj\Debug\net7.0\ref\projetoCotas.dll
