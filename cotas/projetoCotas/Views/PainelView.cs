@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using projetoCotas.Models;
 
-namespace projetoCotas.Views
+/*namespace projetoCotas.Views
 {
     public class PainelView
     {
@@ -24,4 +24,4 @@ namespace projetoCotas.Views
             }
         }
     }
-}
+}*/

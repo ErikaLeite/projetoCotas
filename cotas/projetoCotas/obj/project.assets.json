@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erika\\Desktop\\cotas\\projetoCotas\\projetoCotas.csproj",
+      "projectUniqueName": "C:\\Users\\Erika\\Desktop\\painelCotas\\projetoCotas\\cotas\\projetoCotas\\projetoCotas.csproj",
       "projectName": "projetoCotas",
-      "projectPath": "C:\\Users\\Erika\\Desktop\\cotas\\projetoCotas\\projetoCotas.csproj",
+      "projectPath": "C:\\Users\\Erika\\Desktop\\painelCotas\\projetoCotas\\cotas\\projetoCotas\\projetoCotas.csproj",
       "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erika\\Desktop\\cotas\\projetoCotas\\obj\\",
+      "outputPath": "C:\\Users\\Erika\\Desktop\\painelCotas\\projetoCotas\\cotas\\projetoCotas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config"

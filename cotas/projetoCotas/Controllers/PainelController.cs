@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using projetoCotas.Models;
-using projetoCotas.Views;
 
-namespace projetoCotas.Controllers
+/*namespace projetoCotas.Controllers
 {
     public class PainelController
     {
@@ -22,4 +21,4 @@ namespace projetoCotas.Controllers
             painelV.Listar(todos);
         }
     }
-}
+}*/
