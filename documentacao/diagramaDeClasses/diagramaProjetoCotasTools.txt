@@ -1,0 +1,2 @@
+Para edicoes no diagrama utilizar o site draw.io
+Optar por abrir o arquivo de extensão .drawio
