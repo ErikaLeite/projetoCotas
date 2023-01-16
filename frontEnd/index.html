@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="icon" type="image/png" sizes="192x192" href="http://mondrian.claro.com.br/brands/nosvg/android-icon-192x192.png">    
+    <link rel="stylesheet" href="sets/style.css">
+    <title>COP Cotas</title>
+</head>
+        <header>
+            <div class="content">
+                <div class="menu">
+                   <div class="logo">
+                    <a href="#">
+                        <img src="assets/icons/logoClaro.webp" alt="logo da empresa claro brasil">
+                    </a>
+                   </div>
+                    <nav>
+                        <a href="home.html">Inicio</a>
+                        <a href="index.html">Painel</a>
+                        <a href="#">Cop Info</a>
+                        <a href="suporte.html">Suporte</a>
+                    </nav>
+                </div>
+            </div>
+        </header>
+    <body>
+        <div class="content">
+            <section class="selecao">
+                <div class="content">
+                    <div class="selecaoInput">
+                        <p><strong>Cidade:</strong></p>
+                        <select name="Cidade" id="disabled">
+                            <option value="EPO">Ficticia</option>
+                            <option value="IAT"> Ficticia do Sul </option>
+                            <option value="DESC"> Ficticia de Minas </option>
+                        </select>
+                        <p><strong>Segmento:</strong></p>
+                        <select name="Segmento" id="disabled">
+                            <option value="EPO">Instalação</option>
+                            <option value="IAT"> Manutenção </option>
+                            <option value="DESC"> Desconexão </option>
+                        </select>
+                        <p><strong>Data: </strong></p>
+                        <select name="Data" id="disabled">
+                            <option value="null">--NULL--</option>
+                            <option value="D0"> D-0 </option>
+                            <option value="D1"> D-1 </option>
+                        </select>
+                        <div class="botaoBarra">
+                            <button disabled="disabled">Buscar</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="painel">
+                <div class="areaPainel">
+                    <table id="csvRoot">
+
+                    </table>
+                    <script src="./lib/papaparse.min.js"></script>
+                    <script src="./js/main.js" type="module"></script>
+                </div>
+                <div class="botoes">
+                    <button type="submit"> Colar Painel </button>
+                    <button type="submit"> Gerar Painel  </button>
+                </div>
+            </section>
+        </div>
+    </body>
+    <footer>
+        <div class="content">
+            <p>© 2022 Claro. Todos os direitos reservados. CNPJ: 40.432.544/0001-47 - Rua Henri Dunant, 780 - São Paulo - SP</p>
+        </div>
+    </footer>
+</html> 
